@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "632190892128",
+    "project_id": "campingbazzar",
+    "storage_bucket": "campingbazzar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632190892128:android:2871e7351a28a91f07ab05",
+        "android_client_info": {
+          "package_name": "com.campingbazzar.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632190892128-o5gvpeqts9chmkua53vbg3c6c3rdvd6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campingbazzar.market",
+            "certificate_hash": "469af91f8429db0b5bb862cd9487b21fea8888ca"
+          }
+        },
+        {
+          "client_id": "632190892128-us94tnpoudvkdtt7rcpkf9071lul5iht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ET8qJFvdPaYsCmIaxmnn4EqUy0_D0jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632190892128-us94tnpoudvkdtt7rcpkf9071lul5iht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632190892128-2a2obq907e8bp8l7mo04feoji50304s5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campingbazar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
